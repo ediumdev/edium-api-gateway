@@ -1,0 +1,1 @@
+web: java -Dserver.port=8088 -jar target/edium-api-gateway-1.0-SNAPSHOT.jar
